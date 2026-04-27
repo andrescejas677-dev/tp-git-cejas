@@ -1,3 +1,3 @@
-# HOLA mundo
+# HOLA MUNDO
 ESTE ES
 MI PROYECTO
